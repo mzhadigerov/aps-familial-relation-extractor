@@ -1,0 +1,7 @@
+{
+    "ner": {
+        "chinese": {
+            "path": "chinese-model-ner"
+        }
+    }
+}

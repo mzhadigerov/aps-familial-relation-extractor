@@ -1,0 +1,22 @@
+{
+    "table_column_names": {
+        "name": {
+            "chinese": "姓名",
+            "english": "name"
+        },
+        "position": {
+            "chinese": "职务",
+            "english": "position"
+        }
+    },
+    "board_members_positions_regex":"(董事|总经|监事)",
+    "optimal_pdf_page_height": 792,
+    "person_label": "PER",
+    "familial_gazetteer": {
+        "spouse": ["妻子"],
+        "parent_child": ["母亲", "父亲", "之子", "女儿", "儿子"],
+        "sibling": ["兄", "之兄", "弟", "兄弟", "妹", "其妹"],
+        "relative": ["爷爷", "奶奶", "外婆", "外公", "阿姨", "姑姑", "叔叔", "伯伯", "舅舅", "舅妈", "表妹", "表姐", "堂哥",
+                     "堂弟", "妹夫", "小舅子", "嫂子", "亲属"]
+    }
+}
