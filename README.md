@@ -4,7 +4,7 @@
 python 3.0+
 java 8+ (needs to be tested in machines without java)
 poetry
-ner model needs to be stored in data/board_members_information_extractor/chinese-model-ner
+ner model needs to be unziped into data/board_members_information_extractor/
 ```
 
 ### Installation:
